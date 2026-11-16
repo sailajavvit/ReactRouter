@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f1f3f8;
+}
+
+nav {
+    background-color: #263c63;
+    padding: 18px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+.container {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.page {
+    background-color: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ccc;
+}
+
+input {
+    padding: 10px;
+    width: 60%;
+    margin: 15px;
+}
+
+.student {
+    background-color: #eaf0fa;
+    padding: 15px;
+    margin: 12px;
+    border-radius: 8px;
+}
+
+.student a {
+    color: #263c63;
+    font-weight: bold;
+}
